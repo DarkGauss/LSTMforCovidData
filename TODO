@@ -1,0 +1,3 @@
+1) make it so datasets get pulled automaticly and python scripts generate new proccesed data
+2) Minimum number of days since outbreak from all states does not need to be used anymore. gen1-cleaned
+  fixed the issue that prevented this
