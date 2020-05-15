@@ -16,8 +16,6 @@ In order to generate the data used in the project, the dataChanger.py script sho
 
 ## Requirements
 
-Install requirements.txt file to make sure correct versions of libraries are being used.
-
 * Python 3.5.x
 * Jupyter Notebook 6.0.x
 * TensorFlow 2.x.x
