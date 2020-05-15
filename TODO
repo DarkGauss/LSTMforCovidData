@@ -1,5 +1,4 @@
 1) make it so datasets get pulled automaticly and python scripts generate new proccesed data
 2) Minimum number of days since outbreak from all states does not need to be used anymore. gen1-cleaned
   fixed the issue that prevented this
-3) Add documentation on usage. How to install tensorflow, graphviz, etc. Also add documentation on how the data generation works
-4) Create new data generation model that uses all countries in order to have more samples
+3) Create new data generation model that uses all countries in order to have more samples
